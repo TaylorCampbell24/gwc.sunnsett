@@ -1,0 +1,43 @@
+.container {
+  display: grid;
+  grid-template-columns: [sidebar] 3fr [content] 4fr;h1 {
+    color: #000000; font-family: 'Great Vibes', cursive;
+    font-size: 48px
+  }
+  p {
+    border: 3px solid pink;
+    padding: 30px; font-family: 'Old Standard TT', serif;
+  }
+
+  h2 {
+    color: #000000; font-family: 'Great Vibes', cursive;
+    font-size: 32px
+  }
+
+  h3 {
+    color: #000000; font-family: 'Great Vibes', cursive;
+    font-size: 32px
+  }
+
+}
+
+
+
+h1 {
+  color: #000000; font-family: 'Great Vibes', cursive;
+  font-size: 48px
+}
+p {
+  border: 3px solid pink;
+  padding: 30px; font-family: 'Old Standard TT', serif;
+}
+
+h2 {
+  color: #000000; font-family: 'Great Vibes', cursive;
+  font-size: 32px
+}
+
+h3 {
+  color: #000000; font-family: 'Great Vibes', cursive;
+  font-size: 32px
+}
