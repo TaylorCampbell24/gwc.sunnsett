@@ -1,0 +1,52 @@
+.center {display: block; margin-left: auto;margin-right: auto;width: 50%}
+
+
+h1{
+  font-family: 'Pacifico', cursive; font-size: 46px; color: #ebebeb
+
+}
+img {
+  border-radius: 8px;
+}
+p{
+  font-family: 'Rokkitt', serif; color: #ebebeb
+}
+
+h2{
+  font-family: 'Pacifico', cursive; font-size: 26px; color: #ebebeb
+}
+
+h3{
+  font-family: 'Pacifico', cursive; font-size: 26px; color: #ebebeb
+}
+h4{
+  font-family: 'Rokkitt', serif; color: #ebebeb
+}
+body{
+  color: #ebebeb
+}
+a{
+
+}
+
+.me{
+  font: white;
+}
+
+#top, #bottom, #left, #right {
+	background: #ebebeb;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 15px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 15px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
